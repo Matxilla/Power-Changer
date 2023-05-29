@@ -1,0 +1,1 @@
+powercfg /setactive [instert your powerplan id here without any symbols]
